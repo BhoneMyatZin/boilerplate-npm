@@ -10,5 +10,7 @@
 	"repository": {
 		"type": "git"
 	},
-	"author": "Bhone Myat Zin"
+	"author": {
+		"name": "Bhone Myat Zin"
+	}
 }
