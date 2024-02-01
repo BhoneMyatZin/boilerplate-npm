@@ -1,8 +1,8 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Bhone Myat Zin",
-	"dependencies": {
-    "express": "^4.14.0"
+  "name": "fcc-learn-npm-package-json",
+  "author": "Bhone Myat Zin",
+  "dependencies": {
+  "express": "^4.14.0"
   },
   "main": "server.js",
   "scripts": {
