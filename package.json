@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Bhone Myat Zin",
+	"author": "BMZ",
 	"dependencies": {
     "express": "^4.14.0"
   },
